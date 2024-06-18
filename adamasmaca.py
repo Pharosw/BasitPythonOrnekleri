@@ -71,7 +71,6 @@ Adam_Asmaca = [
       |
     """
 ]
-print(Yesil+Adam_Asmaca)
 print("Adam Asmaca Oyununa Hoş Geldin")
  
 while toplamHak > 0:
